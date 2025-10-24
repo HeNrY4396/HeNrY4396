@@ -2,7 +2,7 @@
 
 ### A budding C developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Henry&label=Profile views&color=0e75b6&style=flat" alt="Henry" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeNrY4396&label=Profile views&color=0e75b6&style=flat" alt="Henry" /> </p>
 
 - 📝 I regularly write articles on **[https://www.henry404.com/](https://www.henry404.com/)**
 
